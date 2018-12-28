@@ -1,4 +1,4 @@
-package crytosocks
+package crytostreamgo
 
 import (
 	"crypto/aes"
